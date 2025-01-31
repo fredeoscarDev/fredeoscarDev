@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💡 I have substantial knowledge and experience in frontend and backend development frameworks.<br>🔦 In my free time, I try to help people fix bugs in their code.<br>I code certain stuff for fun as well :)<br>I love to learn new cool stuff</p>
+<p align="left">💡 With expertise in Python, SQL, and big data tools, I work on extracting meaningful patterns from large datasets to optimize business processes and uncover new opportunities. Whether it's predictive modeling, data-driven strategy, or AI applications, I thrive on leveraging data to make a real impact." </p>
 
 ###
 
