@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=InnovinAC&style=flat-circle&color=red" alt=""/>
   </div>
   
-<h2 align="center">My Name is Frederick Oscar i am a Data Scientist</h2>
+<h2 align="center">My Name is Frederick Oscar <br>i am a Data Scientist</h2>
 
 <h1>
   hey there human.
