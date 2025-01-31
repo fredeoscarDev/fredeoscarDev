@@ -1,14 +1,9 @@
 <div id="header" align="center">
-  <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif" width="300"/> <br>
+  <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif" width="350"/> <br>
 <img src="https://komarev.com/ghpvc/?username=InnovinAC&style=flat-circle&color=red" alt=""/>
   </div>
   
 <h2 align="center">My Name is Frederick Oscar <br>i am a Data Scientist</h2>
-
-<h1>
-  hey there human.
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 
 <p><em>I am professional who analyzes complex data to uncover insights, patterns, and trends that drive strategic decision-making. They use statistical analysis, machine learning, and data visualization to extract valuable knowledge from structured and unstructured data</em></p>
