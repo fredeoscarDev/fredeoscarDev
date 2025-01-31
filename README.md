@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif" width="120"/>
+  <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif" width="300"/>
 <img src="https://komarev.com/ghpvc/?username=InnovinAC&style=flat-circle&color=red" alt=""/>
   </div>
   
