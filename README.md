@@ -6,7 +6,7 @@
 <h2 align="center">My Name is Frederick Oscar <br>i am a Data Scientist</h2>
 
 
-<p><em>I am professional who analyzes complex data to uncover insights, patterns, and trends that drive strategic decision-making. They use statistical analysis, machine learning, and data visualization to extract valuable knowledge from structured and unstructured data</em></p>
+<p><em>Hi, I'm a Data Scientist with a passion for turning raw data into actionable insights. I specialize in using machine learning, statistical analysis, and data visualization to solve complex problems and drive informed decision-making for my clients and the organizations i work for </em></p>
 
 ###
 
